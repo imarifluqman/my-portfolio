@@ -1,15 +1,10 @@
 import type { Metadata } from "next";
-import localFont from "next/font/local";
 import "./globals.css";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 
 
-const sora = localFont({
-  src: "./fonts/sora.ttf",
-  variable: "--sora",
-  weight: "100 900",
-});
+
 
 export const metadata: Metadata = {
   title: "PortFolio",
@@ -23,7 +18,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${sora.variable} antialiased lg:w-[80%] mx-auto`}>
+      <body className="lg:w-[80%] mx-auto">
         <Navbar />
         {children}
         <Footer />
