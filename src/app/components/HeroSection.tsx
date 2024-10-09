@@ -16,7 +16,7 @@ const HeroSection = () => {
                         Based in
                         <span className="font-bold">Pakistan</span>
                     </h1>
-                    <p className="text-[12px]">I'm Evren Shah Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to specimen book.</p>
+                    <p className="text-[12px]">I'm Evren Shah Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s&lsquo; when an unknown printer took a galley of type and scrambled it to specimen book.</p>
                     <div className="flex space-x-4 my-4">
                         <Link className=" border border-black rounded p-2" href="https://linkedin.com">
                             <FaGithub />

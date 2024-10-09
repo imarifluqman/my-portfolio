@@ -2,7 +2,6 @@
 import { useState } from 'react';
 import Link from 'next/link';
 import { IoMdMenu, IoMdClose, IoMdDownload } from "react-icons/io";
-import { RxDownload } from "react-icons/rx";
 import Image from 'next/image';
 import Logo from "@/app/public/Logo.png"
 

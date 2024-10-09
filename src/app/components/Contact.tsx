@@ -31,11 +31,11 @@ export default function Contact() {
             </div>
             <div className="lg:w-1/2 w-full lg:py-0 py-4">
                 <h2 className="lg:w-3/4 lg:text-4xl text-3xl lg:leading-[3rem] leading-10 font-bold ">
-                    Let's
+                    Let&apos;s
                     <span className=" font-extrabold my-text-stroke"> talk </span>for<br />
                     Something special
                 </h2>
-                <p>I seek to push the limits of creativity to create high-engaging, user-friendly, and memorable interactive experiences.</p>
+                <p>I seek to push the limits of creativity to create high-engaging&lsquo; user-friendly&lsquo; and memorable interactive experiences.</p>
                 <p className="font-bold mt-2">imarifluqman@gmail.com</p>
                 <p className="font-bold mt-2">+92-323-2523477</p>
             </div>
