@@ -31,7 +31,7 @@ export default function Contact() {
             </div>
             <div className="lg:w-1/2 w-full lg:py-0 py-4">
                 <h2 className="lg:w-3/4 lg:text-4xl text-3xl lg:leading-[3rem] leading-10 font-bold ">
-                    Let{"&apos;"}s
+                    Let&apos;s
                     <span className=" font-extrabold my-text-stroke"> talk </span>for<br />
                     Something special
                 </h2>
