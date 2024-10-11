@@ -9,7 +9,7 @@ const HeroSection = () => {
         <section className="lg:container mx-auto lg:w-full lg:h-screen flex flex-col-reverse lg:flex lg:flex-row lg:justify-between lg:items-center">
             <div className="lg:w-1/2 w-full lg:h-screen lg:flex lg:justify-center lg:items-center  p-2">
                 <div className="lg:w-[90%]">
-                    <h1 className="lg:w-3/4 lg:text-4xl text-xl lg:leading-[4rem] leading-10 font-light ">
+                    <h1 className="lg:w-3/4 lg:text-3xl text-xl lg:leading-[4rem] leading-10 font-light ">
                         Hello I am
                         <span className="font-bold"> Arif Luqman. </span>
                         <span className="font-bold">Frontend</span>

@@ -12,7 +12,7 @@ export default function Contact() {
                     <textarea className="w-full  border border-black px-4 py-2" name="" cols={30} rows={5} placeholder="Message" id=""></textarea>
                 </div>
                 <div className="w-full lg:w-[90%] mx-auto flex space-x-4 my-4">
-                    <button className="bg-black text-white text-[14px] px-4 py-2">Get in Touch</button>
+                    <button className="bg-black text-white hover:bg-white hover:text-black text-[12px] lg:text-[16px] px-4 py-2">Get in Touch</button>
                     <Link className=" border border-black rounded w-[30px] h-[30px] flex justify-center items-center" href="https://linkedin.com">
                         <FaGithub />
                     </Link>
