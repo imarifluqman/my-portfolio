@@ -4,7 +4,7 @@ import Banner from "@/app/public/about.png";
 export default function About() {
     return (
         <section className="lg:container mx-auto lg:flex lg:justify-between lg:items-center p-2">
-            <div className="lg:w-1/2 w-full flex">
+            <div className="lg:w-1/2 w-full flex justify-center items-center">
                 <Image src={Banner} alt="about image" width={300} height={300} />
             </div>
             <div className="lg:w-1/2 w-full ">
