@@ -33,16 +33,16 @@ const Navbar = () => {
             <div className={`lg:block ${isOpen ? "block" : "hidden"}  `}>
                 <ul className='lg:flex lg:justify-between lg:items-center gap-4'>
                     <li className='hover:text-orange-600 font-bold my-3'>
-                        <Link className='' href="/about">About Me</Link>
+                        <Link className='' href="#about">About Me</Link>
                     </li>
                     <li className='hover:text-orange-600 font-bold my-3'>
-                        <Link className='' href="/skills">Skills</Link>
+                        <Link className='' href="#skills">Skills</Link>
                     </li>
                     <li className='hover:text-orange-600 font-bold my-3'>
-                        <Link className='' href="/project">Project</Link>
+                        <Link className='' href="#project">Project</Link>
                     </li>
                     <li className='hover:text-orange-600 font-bold my-3'>
-                        <Link className='' href="/contact">Contact Me</Link>
+                        <Link className='' href="#contact">Contact Me</Link>
                     </li>
                 </ul>
                 {
