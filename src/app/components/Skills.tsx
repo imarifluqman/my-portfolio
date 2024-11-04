@@ -7,7 +7,7 @@ function Skills() {
             <h2 className="text-3xl text-center my-4">My <span className="font-bold">Skills</span> </h2>
             <div className="flex flex-wrap justify-center gap-4 my-4	">
                 <div className="w-[100px] h-[100px] flex flex-col items-center justify-center border border-white rounded p-2">
-                    <FaHtml5 className="w-10 h-10" />
+                    <FaHtml5 className="w-10 h-10 text-red-400" />
                     <p className="text-center text-[12px] mt-2">HTML</p>
                 </div>
                 <div className="w-[100px] h-[100px] flex flex-col items-center justify-center border border-white rounded p-2">
