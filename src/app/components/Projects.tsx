@@ -19,7 +19,7 @@ function Projects() {
                 <div className="w-[330px] flex flex-col gap-4">
                     <p className="text-3xl">01</p>
                     <p className="text-2xl">Landing page website</p>
-                    <p className="text-[12px]">I'm Evren Shah Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to specimen book.</p>
+                    <p className="text-[12px]">Im Evren Shah Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to specimen book.</p>
                     <div className="flex space-x-4 mt-2">
                         <Link className="flex items-center gap-1 px-2 py-1 text-[12px] bg-black text-white border hover:bg-white hover:text-black" href="https://github.com/evrenshah"><FaGithub />Github</Link>
                         <Link className="flex items-center gap-1 px-2 py-1 text-[12px] bg-black text-white border hover:bg-white hover:text-black" href="https://github.com/evrenshah"><FaEye />Demo</Link>
@@ -30,7 +30,7 @@ function Projects() {
                 <div className="w-[330px] flex flex-col gap-4">
                     <p className="text-3xl">02</p>
                     <p className="text-2xl">Landing page website</p>
-                    <p className="text-[12px]">I'm Evren Shah Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to specimen book.</p>
+                    <p className="text-[12px]">Im Evren Shah Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to specimen book.</p>
                     <div className="flex space-x-4 mt-2">
                         <Link className="flex items-center gap-1 px-2 py-1 text-[12px] bg-black text-white border hover:bg-white hover:text-black" href="https://github.com/evrenshah"><FaGithub />Github</Link>
                         <Link className="flex items-center gap-1 px-2 py-1 text-[12px] bg-black text-white border hover:bg-white hover:text-black" href="https://github.com/evrenshah"><FaEye />Demo</Link>
