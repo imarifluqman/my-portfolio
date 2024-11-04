@@ -11,7 +11,7 @@ function Skills() {
                     <p className="text-center text-[12px] mt-2">HTML</p>
                 </div>
                 <div className="w-[100px] h-[100px] flex flex-col items-center justify-center border border-white rounded p-2">
-                    <FaCss3Alt className="w-10 h-10" />
+                    <FaCss3Alt className="w-10 h-10 cssIcon" />
                     <p className="text-center text-[12px] mt-2">CSS</p>
                 </div>
                 <div className="w-[100px] h-[100px] flex flex-col items-center justify-center border border-white rounded p-2">
